@@ -1,4 +1,4 @@
-/* C program for Merge Sort */
+/* C program for Merge Sort Lakshan */
 #include <stdio.h>
 #include <stdlib.h>
 
